@@ -1,3 +1,4 @@
+<div style="text-align: center;">
 <br />
 <span style="font-size: medium;"><b>Vamos conversar um pouco sobre o Client On:</b></span><br />
 <br />
